@@ -10,4 +10,8 @@ ATTENTION :le fichier n'apparait que si le clavier est connecté
 
 ![corepopsphoto2](https://github.com/ElectroNath24/valPrism/assets/151563929/454dff0b-fa25-455e-9ab6-856ac32d991b)
 
-
+fichier a modidier :
+                                    
+                                                   A FAIRE
+##configuration steelseries ##
+Apres avoir lancé une premiere fois ValPrism allez sur le logiciel steelseries GG veuillez vous rendre dans la rubrique "Engine" puis "Applis" 
