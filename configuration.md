@@ -13,5 +13,6 @@ ATTENTION :le fichier n'apparait que si le clavier est connecté
 fichier a modidier :
                                     
                                                    A FAIRE
-##configuration steelseries ##
-Apres avoir lancé une premiere fois ValPrism allez sur le logiciel steelseries GG veuillez vous rendre dans la rubrique "Engine" puis "Applis" 
+## configuration steelseries 
+
+Apres avoir lancé une premiere fois ValPrism allez sur le logiciel steelseries GG veuillez vous rendre dans la rubrique "Engine" puis "Applis" et cherchez ValPrism
