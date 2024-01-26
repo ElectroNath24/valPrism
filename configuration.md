@@ -22,7 +22,8 @@ Apres avoir lancé une premiere fois ValPrism allez sur le logiciel steelseries 
 
 clickez sur "configurer" puis vous entrerez dans l'interface ValPrism GameSense où vous pourez configurer l'animation et l'attribution des touches.
 
-![steelseries interface 2](https://github.com/ElectroNath24/valPrism/assets/151563929/c3731e4b-3e08-4fb0-a787-bf310fab16eb)
+![steelseries interface 2](https://github.com/ElectroNath24/valPrism/assets/151563929/7788eb3f-e41f-4551-b887-90f928983965)
+
 
 En clickant sur les touche du clavier dans l'application vous pourez y attribuer un "evenement de jeu" voici où les attribuer:
 <p>
@@ -30,6 +31,7 @@ En clickant sur les touche du clavier dans l'application vous pourez y attribuer
     - C : à mettre sur la touche "C".<br>
     - E : à mettre sur la touche "A".<br>
     - ANIMATION : à mettre sur les touches qui subiront une animation autre que A,C et E.Pour plus d'information rendez-vous au chapitre suivant.<br>
+    - COMPTEURKILL : Renvoit 0% lorsqu'aucun kill n'a été effectué ,20% pour 1 kill, 40% pour 2, 60% pour 3, 80% pour 4 et 100% pour 5 (un ace).<br>
     - Aucun : à mettre sur les touches qui resteront par defaut.<br>
 </p>
 
@@ -43,7 +45,23 @@ faites la même chose pour "C" et "E".
 
 P.S. : si vous souhaitez réutiliser une couleur recement utiliser vous pouvez clickez sur les petits carrés situé sous le mélangeur
 
-###
+### ANIMATION
+
+L'event "ANIMATION" est un event qui aura une valeur qui va monter progressivement de 0% à 100% et redécendre à 0% plusieurs fois lorsque un ace sera effectué
+donc les parametre que vous pouvez modifier sont :
+
+1. Les effets :
+  1. bicolore : la touche va passer de la première couleur à la seconde.
+  2. gamme de couleurs : vous allez choisir trois couleurs (ou plus) et la couleur va passer de l'une à l'autre sans transition.
+  3. monochrome : la couleur sera ne changera pas ,mais ne sera pas celle par defaut.
+  
+2. L'affichage sous forme de barre : peut être utilisé avec tout les effets, les touches vont s'allumer les unes apres les autres en representant une barre de progression
+
+## Notre recommandation 
+
+Cette configuration est faite celon nos goût et ne vous plaira pas forcement.
+
+
 
 
 
