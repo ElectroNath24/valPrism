@@ -50,10 +50,10 @@ P.S. : si vous souhaitez réutiliser une couleur recement utiliser vous pouvez c
 L'event "ANIMATION" est un event qui aura une valeur qui va monter progressivement de 0% à 100% et redécendre à 0% plusieurs fois lorsque un ace sera effectué
 donc les parametre que vous pouvez modifier sont :
 
-1. Les effets :
-  1. bicolore : la touche va passer de la première couleur à la seconde.
-  2. gamme de couleurs : vous allez choisir trois couleurs (ou plus) et la couleur va passer de l'une à l'autre sans transition.
-  3. monochrome : la couleur sera ne changera pas ,mais ne sera pas celle par defaut.
+1. Les effets :<br>
+.  1. bicolore : la touche va passer de la première couleur à la seconde.<br>
+.  2. gamme de couleurs : vous allez choisir trois couleurs (ou plus) et la couleur va passer de l'une à l'autre sans transition.<br>
+.  3. monochrome : la couleur sera ne changera pas ,mais ne sera pas celle par defaut.<br>
   
 2. L'affichage sous forme de barre : peut être utilisé avec tout les effets, les touches vont s'allumer les unes apres les autres en representant une barre de progression
 
