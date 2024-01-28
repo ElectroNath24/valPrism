@@ -57,11 +57,6 @@ donc les parametre que vous pouvez modifier sont :
   
 2. L'affichage sous forme de barre : peut être utilisé avec tout les effets, les touches vont s'allumer les unes apres les autres en representant une barre de progression
 
-## Notre recommandation 
-
-Cette configuration est faite celon nos goût et ne vous plaira pas forcement.
-
-
 
 
 
