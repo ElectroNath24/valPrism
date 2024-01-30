@@ -7,7 +7,7 @@ Une fois la tentative d'appairage effectuer un message vous informera de la repo
 
     [image Link]
 
-Si la reponse est negatif veuillez vous référer à la page de documentation dédié et pour plus d'information sur le message d'erreur voici une page wikipedia (https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP)
+Si la reponse est negatif veuillez vous référer à la page de [documentation](https://github.com/ElectroNath24/valPrism/tree/main/debugage)  dédié et pour plus d'information sur le message d'erreur voici une page [wikipedia](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP)
 
 ## configuration steelseries 
 
