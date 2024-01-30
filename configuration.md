@@ -15,7 +15,7 @@ fichier a modidier :
                                                    A FAIRE
 ## configuration steelseries 
 
-Apres avoir lancé une premiere fois ValPrism allez sur le logiciel steelseries GG veuillez vous rendre dans la rubrique "Engine" puis "Applis" et cherchez ValPrism,
+Apres avoir lancé une premiere fois ValPrism Link allez sur le logiciel steelseries GG veuillez vous rendre dans la rubrique "Engine" puis "Applis" et cherchez ValPrism,
 
 
 ![steelseries interface 1](https://github.com/ElectroNath24/valPrism/assets/151563929/1f27fcb3-30ef-4c90-b4d0-d6bba7ecce8e)
