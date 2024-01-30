@@ -2,6 +2,12 @@
 Pour commencer à utiliser valPrism avec votre clavier il vous faut installer le logiciel steelseries GG sur leurs site officiel (https://fr.steelseries.com/gg).
 
 ## configuration
+Apres avoir installer steelseries GG et connecté un clavier compatible veuillez lancer ValPrim Link,puis clickez sur lier l'appairage peut prendre plus ou moin de temps celon votre wi-fi.
+Une fois la tentative d'appairage effectuer un message vous informera de la reponse sois elle sera positif (reponse [200])avec un message vous indiquant pouvoir fermer la fenetre,soit negatif.<br>
+
+    [image Link]
+
+Si la reponse est negatif veuillez vous référer à la page de documentation dédié et pour plus d'information sur le message d'erreur voici une page wikipedia(https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP)
 
 ## configuration steelseries 
 
