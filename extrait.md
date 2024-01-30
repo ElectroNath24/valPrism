@@ -1,4 +1,15 @@
-Une fois installé connectez votre clavier à l'ordinateur puis dans le fichier "adresse.json" remplacer le texte par l'adresse trouvé dans le fichier "coreProps.json" de steelseries gg (C:\ProgramData\SteelSeries\SteelSeries Engine 3)
+## réponse négative de ValPrism Link
+Dans cette page nous allons voir pourquoi votre appairage ne s'est pas effectué correctement 
+
+### le chemin
+Il est possible que votre logiciel SteelSeries GG ne soit pas installer à l'endroit où ValPrism Link vien le chercher.<br>
+veuillez verifier si le fichier "coreProps" est présent à l'emplacement (C:\ProgramData\SteelSeries\SteelSeries Engine 3).
+
+##### si le dossier existe mais que le fichier n'y est pas 
+
+
+
+
 
 ATTENTION :le fichier n'apparait que si le clavier est connecté
 
