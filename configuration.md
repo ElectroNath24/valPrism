@@ -4,7 +4,7 @@ Pour commencer à utiliser ValPrism avec votre clavier, il vous faut installer l
 ## Configuration
 Après avoir installé SteelSeries GG et connecté un clavier compatible, veuillez lancer ValPrism Link, puis cliquez sur le bouton "Link". L'appairage peut prendre plus ou moins de temps selon votre Wi-Fi. Une fois la tentative d'appairage effectuée, un message vous informera de la réponse, soit elle sera positive (réponse [200]) avec un message vous indiquant de pouvoir fermer la fenêtre, soit négative.<br>
 
-    [image Link]
+![link](https://github.com/ElectroNath24/valPrism/assets/151563929/cb715654-1b09-46b8-b7c7-5433f5fe48f3)
 
 Si la réponse est négative, veuillez vous référer à la page de [documentation](https://github.com/ElectroNath24/valPrism/blob/main/debugage/ValPrism%20Link.md)  dédiée et pour plus d'information sur le message d'erreur, voici une page  [wikipedia](https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP)
 
